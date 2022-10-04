@@ -1,0 +1,199 @@
+
+.depicter-8:not(.depicter-ready){
+	height:700px;
+}
+.depicter-revert.depicter-8 .depicter-layers-wrapper{
+	padding-left:15px;
+	padding-right:15px;
+}
+.depicter-revert .depicter-8-element-7{
+	background-color:#999;
+	border-radius:5px 5px 5px 5px;
+}
+.depicter-revert .depicter-8-element-7:not(.depicter-hover-off):hover {
+	background-color:#F10E34;
+}
+.depicter-8-element-7 .depicter-arrow-icon{
+	fill:#000000;
+}
+.depicter-8-element-7:not(.depicter-hover-off):hover .depicter-arrow-icon{
+	fill:#ffffff;
+}
+.depicter-revert .depicter-8-element-8{
+	background-color:#999;
+	border-radius:5px 5px 5px 5px;
+}
+.depicter-revert .depicter-8-element-8:not(.depicter-hover-off):hover {
+	opacity:1;
+	background-color:#F10E34;
+}
+.depicter-8-element-8 .depicter-arrow-icon{
+	fill:#000000;
+}
+.depicter-8-element-8:not(.depicter-hover-off):hover .depicter-arrow-icon{
+	fill:#ffffff;
+}
+.depicter-revert .depicter-8-element-22{
+	font-size:60px;
+	color:#ffffff;
+	font-family:"Poppins";
+	font-weight:700;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-8-element-24{
+	background-color:#f10e34;
+}
+.depicter-revert .depicter-8-element-11{
+	font-size:18px;
+	color:#797b80;
+	font-family:"Poppins";
+	font-weight:400;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-8-element-10{
+	font-size:24px;
+	text-align:center;
+	color:#ffffff;
+	font-family:"Poppins";
+	font-weight:600;
+	line-height:100%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-8-element-4{
+	padding:50px 80px 50px 80px;
+	font-size:40px;
+	text-align:center;
+	color:#ffffff;
+	font-family:"Poppins";
+	font-weight:400;
+	line-height:102%;
+	text-transform:;
+	letter-spacing:0px;
+	border-width:5px;
+	border-style:solid;
+	border-color:#ffffff;
+}
+.depicter-revert .depicter-8-section-1{
+	background-color:#1d1f28;
+}
+.depicter-revert .depicter-8-element-14{
+	font-size:18px;
+	color:#797b80;
+	font-family:"Poppins";
+	font-weight:400;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-8-element-13{
+	font-size:24px;
+	text-align:center;
+	color:#ffffff;
+	font-family:"Poppins";
+	font-weight:600;
+	line-height:100%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-8-element-12{
+	padding:50px 50px 50px 50px;
+	font-size:40px;
+	text-align:center;
+	color:#ffffff;
+	font-family:"Poppins";
+	font-weight:400;
+	line-height:102%;
+	text-transform:;
+	letter-spacing:0px;
+	border-width:5px;
+	border-style:solid;
+	border-color:#ffffff;
+}
+.depicter-revert .depicter-8-section-2{
+	background-color:#1D1F28;
+}
+.depicter-revert .depicter-8-element-17{
+	font-size:18px;
+	color:#797b80;
+	font-family:"Poppins";
+	font-weight:400;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-8-element-16{
+	font-size:24px;
+	text-align:center;
+	color:#ffffff;
+	font-family:"Poppins";
+	font-weight:600;
+	line-height:100%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-8-element-15{
+	padding:50px 80px 50px 80px;
+	font-size:40px;
+	text-align:center;
+	color:#ffffff;
+	font-family:"Poppins";
+	font-weight:400;
+	line-height:102%;
+	text-transform:;
+	letter-spacing:0px;
+	border-width:5px;
+	border-style:solid;
+	border-color:#ffffff;
+}
+.depicter-revert .depicter-8-section-3{
+	background-color:#1D1F28;
+}
+.depicter-revert .depicter-8-element-21{
+	font-size:18px;
+	color:#797b80;
+	font-family:"Poppins";
+	font-weight:400;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-8-element-20{
+	font-size:24px;
+	text-align:center;
+	color:#ffffff;
+	font-family:"Poppins";
+	font-weight:600;
+	line-height:100%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-8-element-19{
+	padding:50px 80px 50px 80px;
+	font-size:40px;
+	text-align:center;
+	color:#ffffff;
+	font-family:"Poppins";
+	font-weight:400;
+	line-height:102%;
+	text-transform:;
+	letter-spacing:0px;
+	border-width:5px;
+	border-style:solid;
+	border-color:#ffffff;
+}
+.depicter-revert .depicter-8-section-18{
+	background-color:#1D1F28;
+}
+
+/***** Tablet *****/
+@media screen and (max-width: 1024px){
+
+.depicter-8:not(.depicter-ready){
+	height:700px;
+}
+
+}
+/***** Mobile *****/
+@media screen and (max-width: 767px){
+
+.depicter-8:not(.depicter-ready){
+	height:740px;
+}
+
+}

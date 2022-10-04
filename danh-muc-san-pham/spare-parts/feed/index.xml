@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Spare Parts &#8211; QuangThuan</title>
+	<atom:link href="https://quangthuan1912.github.io/wordpress/danh-muc-san-pham/spare-parts/feed/" rel="self" type="application/rss+xml" />
+	<link>https://quangthuan1912.github.io/wordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Tue, 04 Oct 2022 02:13:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>Awesome Steel Plate</title>
+		<link>https://quangthuan1912.github.io/wordpress/san-pham/awesome-steel-plate/</link>
+					<comments>https://quangthuan1912.github.io/wordpress/san-pham/awesome-steel-plate/#respond</comments>
+		
+		<dc:creator><![CDATA[LeQuangThuan]]></dc:creator>
+		<pubDate>Tue, 04 Oct 2022 02:13:23 +0000</pubDate>
+				<guid isPermaLink="false">https://quangthuan1912.github.io/wordpress/?post_type=product&#038;p=1158</guid>
+
+					<description><![CDATA[Laudantium nihil itaque et aut nesciunt accusantium recusandae. Cumque quisquam voluptatem accusantium. Inventore necessitatibus accusantium voluptatem illum. Nihil molestiae aperiam similique qui.]]></description>
+										<content:encoded><![CDATA[<p>Voluptatem et nisi non quia. Ab ducimus ea assumenda consequuntur qui sit. Soluta consequuntur ipsa voluptatem soluta. Accusantium sit et quas magni non.</p>
+<p>Ad autem non molestiae. Voluptatem est sed quia rem aliquid quas est. Aliquid laboriosam nihil ducimus quasi.</p>
+<p>Dolorem quos non consequatur repellendus officia quam provident. Ullam est est enim quasi rerum sequi quo. Ducimus et voluptas vero est rerum voluptatem consequuntur consequatur. Modi cumque dolor ea quia.</p>
+<p>Sed numquam perferendis delectus neque et numquam. Laborum voluptatem at et est veritatis. Harum voluptate harum et magni consequatur. Modi est sunt consequatur est natus ut dicta.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://quangthuan1912.github.io/wordpress/san-pham/awesome-steel-plate/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

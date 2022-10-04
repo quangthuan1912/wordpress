@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; QuangThuan</title>
+	<atom:link href="https://quangthuan1912.github.io/wordpress/danh-muc-san-pham/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://quangthuan1912.github.io/wordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Tue, 04 Oct 2022 03:12:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>Awesome Plastic Bag</title>
+		<link>https://quangthuan1912.github.io/wordpress/san-pham/awesome-plastic-bag/</link>
+					<comments>https://quangthuan1912.github.io/wordpress/san-pham/awesome-plastic-bag/#respond</comments>
+		
+		<dc:creator><![CDATA[LeQuangThuan]]></dc:creator>
+		<pubDate>Sat, 01 Jan 2022 05:37:39 +0000</pubDate>
+				<guid isPermaLink="false">https://quangthuan1912.github.io/wordpress/?post_type=product&#038;p=795</guid>
+
+					<description><![CDATA[Est error ea ipsa. Corrupti ut reiciendis dicta rerum sed placeat. Odit officia minus voluptas ad. Quis autem autem numquam est et.]]></description>
+										<content:encoded><![CDATA[<p>Aut inventore alias dolores. Sed nisi et vero non eos. Voluptatibus magnam eos aperiam ad tempora qui sint. Illo aut eveniet iusto expedita error esse doloribus ducimus.</p>
+<p>Laudantium eligendi nostrum non. Optio voluptates aliquid qui alias labore neque aut. Error harum sint et et sed cumque.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://quangthuan1912.github.io/wordpress/san-pham/awesome-plastic-bag/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
