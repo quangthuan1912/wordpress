@@ -101,7 +101,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/myproject\/wordpress\/wp-admin\/admin-aj
 <script type="text/javascript" src="https://quangthuan1912.github.io/wordpress/wp-includes/js/wp-util.min.js?ver=6.0.3" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /* <![CDATA[ */
-var userProfileL10n = {"user_id":"0","nonce":"424ddb2de7"};
+var userProfileL10n = {"user_id":"0","nonce":"54ebcfd5e1"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="https://quangthuan1912.github.io/wordpress/wp-admin/js/user-profile.min.js?ver=6.0.3" id="user-profile-js"></script>
